@@ -1,4 +1,6 @@
-# libft
+*This project was created as part of the curriculum for 42 by rjuarez-*
+
+# 📚 libft
 ## 📖 Description
 
 DEFINITION:
